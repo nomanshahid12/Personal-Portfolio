@@ -343,7 +343,7 @@ export default function Home() {
               <a href="#contact" className="px-7 py-3 border border-white/30 hover:border-cyan-400 rounded-lg font-semibold transition">
                 Contact Me
               </a>
-              <a href="#" className="px-7 py-3 bg-red-600 hover:bg-red-500 rounded-lg font-semibold transition">
+              <a href="/NomanShahid.pdf" target="_blank" rel="noopener noreferrer" className="px-7 py-3 bg-red-600 hover:bg-red-500 rounded-lg font-semibold transition">
                 Open CV
               </a>
             </div>
