@@ -167,7 +167,7 @@ const experiences = [
 
 const projects = [
   {
-    emoji: "🎬",
+    emoji: "🎥",
     title: "ReelMax Video Player AllFormat",
     description: "Developed a modern Android video player application with HD playback, multi-format media support, TV casting, and smooth media management features. Focused on performance optimization, responsive UI, and scalable app architecture for an enhanced user experience.",
     liveLink: "https://play.google.com/store/apps/details?id=com.Reelmax.vidplay.save",
@@ -181,7 +181,7 @@ const projects = [
     tags: ["Kotlin", "XML", "Android SDK", "Retrofit", "Firebase", "Network Monitoring", "MVVM"],
   },
   {
-    emoji: "📞",
+    emoji: "📢",
     title: "Caller Announcer - Call Themes",
     description: "Developed a smart Android caller announcer application that announces caller names, SMS notifications, and battery alerts using voice assistance features. Integrated customizable call themes, voice settings, and notification tools with a smooth and user-friendly interface.",
     liveLink: "https://play.google.com/store/apps/details?id=com.smart.ai.call.name.announcer",
@@ -195,14 +195,14 @@ const projects = [
     tags: ["Kotlin", "XML", "Firebase", "Google Maps", "GPS", "MVVM", "Weather APIs"],
   },
   {
-    emoji: "📤",
+    emoji: "🚀",
     title: "SendEase – Easy File Transfer",
     description: "Developed an all-in-one Android file sharing and utility application that enables fast transfer of photos, videos, apps, and documents with additional features like video downloading, status saving, and built-in media playback. Designed with optimized performance and smooth file management.",
     liveLink: "https://play.google.com/store/apps/details?id=com.sendease.ai.smartutility",
     tags: ["Kotlin", "XML", "Firebase", "Retrofit", "Room Database", "ExoPlayer", "File Sharing APIs"],
   },
   {
-    emoji: "🎨",
+    emoji: "🤖",
     title: "Gen AI Photo Editor Pro",
     description: "Developed a creative Android photo editing application featuring AI background remover, neon effects, collage maker, blur effects, stickers, filters, and advanced image editing tools. Designed with optimized performance and real-time photo processing with social media sharing.",
     liveLink: "https://play.google.com/store/apps/details?id=com.background.remover.collagemaker.neonphotoeditor",
@@ -216,35 +216,35 @@ const projects = [
     tags: ["Jetpack Compose", "Kotlin", "Firebase", "Retrofit", "ExoPlayer", "Media3 APIs", "MVVM"],
   },
   {
-    emoji: "🎥",
+    emoji: "🎞️",
     title: "VideoHub – Video Downloader & Player",
     description: "Developed a modern multimedia Android application featuring HD/4K video downloading, built-in video player, private media storage, background downloading, and offline playback support. Built with Jetpack Compose for a smooth and responsive user experience.",
     liveLink: "https://play.google.com/store/apps/details?id=com.videohub.video.downloader.player",
     tags: ["Jetpack Compose", "Kotlin", "Firebase", "Retrofit", "ExoPlayer", "Room Database", "MVVM"],
   },
   {
-    emoji: "📹",
+    emoji: "⬇️",
     title: "HD Video Downloader & Video Player",
     description: "Developed a modern multimedia Android application with HD/4K video playback, fast video downloading, background playback, private media storage, and file management tools. Built using Jetpack Compose with responsive modern UI and optimized media handling.",
     liveLink: "https://play.google.com/store/apps/details?id=com.downloadhdvideos.Videoplayer.Hd",
     tags: ["Jetpack Compose", "Kotlin", "Firebase", "Retrofit", "ExoPlayer", "Media3 APIs", "MVVM"],
   },
   {
-    emoji: "🧾",
+    emoji: "💰",
     title: "VoiceMaker – Receipt Generator",
     description: "Developed a smart business utility Android application for generating professional invoices, receipts, and payment records with customizable templates and PDF export functionality. Designed with clean interface focused on fast creation and efficient business management.",
     liveLink: "https://play.google.com/store/apps/details?id=com.voicemaker.receiptgenerator",
     tags: ["Kotlin", "XML", "Firebase", "Room Database", "PDF Generator", "MVVM", "REST APIs"],
   },
   {
-    emoji: "📄",
+    emoji: "📖",
     title: "DocFlow – File Reader & PDF Viewer AI",
     description: "Developed an all-in-one Android document management application with PDF viewing, document reading, file organization, AI-powered tools, document scanning, and smart file management. Built with clean modern UI and optimized offline document handling.",
     liveLink: "https://play.google.com/store/apps/details?id=com.docflow.filereader.pdfviewer.ai",
     tags: ["Kotlin", "XML", "Firebase", "PDF Viewer", "OCR", "AI Tools", "MVVM", "REST APIs"],
   },
   {
-    emoji: "📶",
+    emoji: "🔬",
     title: "WiFi Analyzer – AI Speed Tools",
     description: "Developed a smart Android network utility application for WiFi analysis, internet speed testing, signal strength monitoring, and network diagnostics. Designed with clean responsive interface with real-time network insights and advanced connectivity tools.",
     liveLink: "https://play.google.com/store/apps/details?id=com.wifianalyzer.ai.speedtools",
